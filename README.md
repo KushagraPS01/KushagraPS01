@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KushagraPS01
 - 👀 I’m interested in Web Designing and Mashine Learning
--  🌱 I’m currently learning Agra, India
+-  🌱 I’m currently living in Agra, India
 - 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me kushagrapratap01@gmail.com
 - 😄 Pronouns: HE/HIM
