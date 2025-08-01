@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kushagra Pratap Singh
 - 👀 I’m interested in Web Designing and Mashine Learning
 -  🌱 I’m currently living in Agra, India
-- 💞️ I’m looking to collaborate on Web Dev Projects
+- 💞️ I’m looking to collaborate on Web Dev and Machine Learning Projects
 - 📫 How to reach me developerkushagra@gmail.com
 - 😄 Pronouns: HE/HIM
